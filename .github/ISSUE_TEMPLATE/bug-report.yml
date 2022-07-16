@@ -4,8 +4,6 @@ title: "bug: "
 labels:
   - bug
   - triage
-assignees:
-  - minicss/maintainers
 body:
   - type: markdown
     attributes:
