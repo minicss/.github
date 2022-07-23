@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 MiniCSS aimes to minify CSS files by renaming classed, variables, etc to smaller names.
+
 Unlinke other minifications for websites (HTML, JavaScript, Image, etc) this won't just impact your CSS files,
 but your HTML & JavaScript references as well, making it a solution that minifies your entire website.
 
